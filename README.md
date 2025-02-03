@@ -1,2 +1,2 @@
 # sistema-cadastro
-Esse projeto implementa um sistema de cadastro de usuário
+Esse projeto implementa uma api de cadastro/consulta e alteração de usuário
